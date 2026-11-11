@@ -4,7 +4,7 @@
 
 ## 一、项目说明
 
-本仓库用于收集、整理与分享图像重绘类提示词。当前已收录 **2** 份提示词，配套 **6** 张效果预览图，后续将持续补充更新。
+本仓库用于收集、整理与分享图像重绘类提示词。当前已收录 **3** 份提示词，配套 **9** 张效果预览图，后续将持续补充更新。
 
 ### 目录结构
 
@@ -26,6 +26,7 @@ image-prompt/
 | :--: | --- | --- |
 | 001 | [20261109流体光栅雕塑美学.md](Prompt/20261109流体光栅雕塑美学.md) | <img src="Image/redraw-109.png" width="120" /> <img src="Image/redraw-110.png" width="120" /> <img src="Image/redraw-111.png" width="120" /> |
 | 002 | [20261110实景延伸线稿.md](Prompt/20261110实景延伸线稿.md) | <img src="Image/1110-1.png" width="120" /> <img src="Image/1110-2.jpeg" width="120" /> <img src="Image/1110-3.jpeg" width="120" /> |
+| 003 | [20261111中式浮雕风格海报.md](Prompt/20261111中式浮雕风格海报.md) | <img src="Image/1111-1.png" width="120" /> <img src="Image/1111-2.jpeg" width="120" /> <img src="Image/1111-3.jpeg" width="120" /> |
 
 > 同一份提示词可适配不同类型的原始照片，预览图仅展示部分生成结果。
 
