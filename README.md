@@ -4,7 +4,7 @@
 
 ## 一、项目说明
 
-本仓库用于收集、整理与分享图像重绘类提示词。当前已收录 **6** 份提示词，配套 **19** 张效果预览图，后续将持续补充更新。
+本仓库用于收集、整理与分享图像重绘类提示词。当前已收录 **7** 份提示词，配套 **22** 张效果预览图，后续将持续补充更新。
 
 ### 目录结构
 
@@ -30,6 +30,7 @@ image-prompt/
 | 004 | [20261112照片借形转译·动物轮廓.md](Prompt/20261112照片借形转译·动物轮廓.md) | <img src="Image/1112-1.jpeg" width="120" /> <img src="Image/1112-2.jpeg" width="120" /> <img src="Image/1112-3.jpeg" width="120" /> |
 | 005 | [20261113东方极简水墨形态转译.md](Prompt/20261113东方极简水墨形态转译.md) | <img src="Image/1113-1.png" width="120" /> <img src="Image/1113-2.png" width="120" /> <img src="Image/1113-3.png" width="120" /> <img src="Image/1113-4.png" width="120" /> |
 | 006 | [20261114东方撕纸水墨艺术海报.md](Prompt/20261114东方撕纸水墨艺术海报.md) | <img src="Image/1114-1.png" width="120" /> <img src="Image/1114-2.png" width="120" /> <img src="Image/1114-3.png" width="120" /> |
+| 007 | [20261118极简水彩艺术画册.md](Prompt/20261118极简水彩艺术画册.md) | <img src="Image/1118-1.png" width="120" /> <img src="Image/1118-2.png" width="120" /> <img src="Image/1118-3.png" width="120" /> |
 
 > 同一份提示词可适配不同类型的原始照片，预览图仅展示部分生成结果。
 
