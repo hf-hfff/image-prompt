@@ -4,7 +4,7 @@
 
 ## 一、项目说明
 
-本仓库用于收集、整理与分享图像重绘类提示词。当前已收录 **9** 份提示词，配套 **29** 张效果预览图，后续将持续补充更新。
+本仓库用于收集、整理与分享图像重绘类提示词。当前已收录 **10** 份提示词，配套 **32** 张效果预览图，后续将持续补充更新。
 
 ### 目录结构
 
@@ -33,6 +33,7 @@ image-prompt/
 | 007 | [20261118极简水彩艺术画册.md](Prompt/20261118极简水彩艺术画册.md) | <img src="Image/1118-1.png" width="120" /> <img src="Image/1118-2.png" width="120" /> <img src="Image/1118-3.png" width="120" /> |
 | 008 | [20261121GTA风格.md](Prompt/20261121GTA风格.md) | <img src="Image/1121-1.png" width="120" /> <img src="Image/1121-2.png" width="120" /> <img src="Image/1121-3.png" width="120" /> <img src="Image/1121-4.webp" width="120" /> |
 | 009 | [20261125旅行票根纪念票.md](Prompt/20261125旅行票根纪念票.md) | <img src="Image/1125-1.png" width="120" /> <img src="Image/1125-2.png" width="120" /> <img src="Image/1125-3.png" width="120" /> |
+| 010 | [20261128撕纸穿境海报.md](Prompt/20261128撕纸穿境海报.md) | <img src="Image/1128-1.png" width="120" /> <img src="Image/1128-2.png" width="120" /> <img src="Image/1128-3.png" width="120" /> |
 
 > 同一份提示词可适配不同类型的原始照片，预览图仅展示部分生成结果。
 
